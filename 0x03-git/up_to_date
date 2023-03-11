@@ -1,1 +1,1 @@
-echo 'message' > README.md
+git pull
